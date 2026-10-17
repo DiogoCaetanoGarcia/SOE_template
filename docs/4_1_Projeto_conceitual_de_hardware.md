@@ -18,7 +18,7 @@ Incluam obrigatoriamente um **diagrama de blocos**, um **esquemático** e uma **
 
 O diagrama de blocos apresenta uma visão geral do hardware, seus principais subsistemas e as conexões entre eles, para facilitar o entendimento do circuito desenvolvido.
 
-![Diagrama de blocos](https://raw.githubusercontent.com/fcte-pi1/template/refs/heads/main/docs/figs/Exemplo-diagrama-de-blocos.png)
+![Diagrama de blocos](figs/Exemplo-diagrama-de-blocos.png)
 
 **Figura 1.** Diagrama de blocos de um circuito conversor de corrente alternada para corrente contínua [1].
 
